@@ -3,7 +3,7 @@
 This project analyzes regional, product-level, and time-based sales performance using **Power BI**. It provides a comprehensive and interactive view into key performance indicators (KPIs) to support business decisions in retail management.
 
 ## Dashboard Preview
-*(Add a screenshot of your dashboard here)*
+Please check DashBoard.png for the preview
 
 ## Project Objective
 Design a business-ready dashboard that enables decision‑makers to:
